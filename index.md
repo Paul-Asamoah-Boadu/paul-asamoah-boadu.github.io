@@ -4,7 +4,7 @@
 
 ### Cohort Analysis and Customer Segmentation 
 
-[PCohort Analysis and Customer Segmentation](/sample_page)
+[Cohort Analysis and Customer Segmentation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
