@@ -7,34 +7,33 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
 
-
 ---
 
 <h3>Predicting the Cooling Load of Building</h3>
 
-[Predicting the Cooling Load of Building](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting the Cooling Load of Building](/pdf/sample_presentation.pdf)
 
 ---
 
 <h3>Analysing Prosper Loan Data</h3>
 
-[Analysing Prosper Loan Data](https://github.com/Paul-Asamoah-Boadu/Prosper-Loan-Data)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analysing Prosper Loan Data](https://github.com/Paul-Asamoah-Boadu/Prosper-Loan-Data)
 
 ---
 
 <h3>Predicting the Housing Price</h3>
 
-[Predicting the Housing Price](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting the Housing Price](http://example.com/)
 
 ---
 
 <h3>Analysing Twitter Archive</h3>
 
-[Analysing Twitter Archive](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analysing Twitter Archive](http://example.com/)
 
 ---
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
