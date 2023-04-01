@@ -2,17 +2,37 @@
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 ---
 
-### Cohort Analysis and Customer Segmentation 
+<h3>Cohort Analysis and Customer Segmentation</h3>
 
 [Cohort Analysis and Customer Segmentation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+<h3>Predicting the Cooling Load of Building</h3>
+
+[Predicting the Cooling Load of Building](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+<h3>Analysing Prosper Loan Data</h3>
+
+[Analysing Prosper Loan Data](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+<h3>Predicting the Housing Price</h3>
+
+[Predicting the Housing Price](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+<h3>Analysing Twitter Archive</h3>
+
+[Analysing Twitter Archive](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
