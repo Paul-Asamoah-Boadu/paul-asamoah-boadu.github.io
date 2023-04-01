@@ -4,8 +4,9 @@
 
 <h3>Cohort Analysis and Customer Segmentation</h3>
 
-[Cohort Analysis and Customer Segmentation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
+
 
 ---
 
@@ -18,7 +19,7 @@
 
 <h3>Analysing Prosper Loan Data</h3>
 
-[Analysing Prosper Loan Data](http://example.com/)
+[Analysing Prosper Loan Data](https://github.com/Paul-Asamoah-Boadu/Prosper-Loan-Data)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
