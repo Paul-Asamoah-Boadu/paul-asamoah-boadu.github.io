@@ -1,5 +1,6 @@
 ## Selected Projects in Data Science, Data Analytics, and Machine Learning
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
 ---
 
 <h3>Cohort Analysis and Customer Segmentation</h3>
@@ -8,6 +9,7 @@
 
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 ---
 
@@ -15,8 +17,9 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Predicting the Cooling Load of Building](https://github.com/Paul-Asamoah-Boadu/Predicting the Cooling Load of Building)
+[Predicting the Cooling Load of Building](https://github.com/Paul-Asamoah-Boadu/Predicting-the-Cooling-Load-of-Buildings)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 ---
 
@@ -26,6 +29,7 @@
 
 [Analysing Prosper Loan Data](https://github.com/Paul-Asamoah-Boadu/Prosper-Loan-Data)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 ---
 
@@ -33,8 +37,9 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Predicting the Housing Price](https://github.com/Paul-Asamoah-Boadu/Predicting the Housing Price)
+[Predicting the Housing Price](https://github.com/Paul-Asamoah-Boadu/)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 ---
 
@@ -42,8 +47,9 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Analysing Twitter Archive](https://github.com/Paul-Asamoah-Boadu/Analysing Twitter Archive)
+[Analysing Twitter Archive](https://github.com/Paul-Asamoah-Boadu/Wrangling-and-Analyze-Data)
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 ---
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
