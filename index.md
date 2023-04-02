@@ -15,7 +15,7 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Predicting the Cooling Load of Building](/pdf/sample_presentation.pdf)
+[Predicting the Cooling Load of Building](https://github.com/Paul-Asamoah-Boadu/Predicting the Cooling Load of Building)
 
 
 ---
@@ -33,7 +33,7 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Predicting the Housing Price](http://example.com/)
+[Predicting the Housing Price](https://github.com/Paul-Asamoah-Boadu/Predicting the Housing Price)
 
 
 ---
@@ -42,7 +42,7 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Analysing Twitter Archive](http://example.com/)
+[Analysing Twitter Archive](https://github.com/Paul-Asamoah-Boadu/Analysing Twitter Archive)
 
 
 ---
