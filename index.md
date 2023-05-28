@@ -66,4 +66,5 @@
 ---
 
 
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#)
 
