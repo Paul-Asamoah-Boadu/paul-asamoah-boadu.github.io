@@ -5,8 +5,8 @@
 
 <h3>Cohort Analysis and Customer Segmentation</h3>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="ElbowPlot.png" alt="Image of Tweets" width="800" height="700">
+<img src="images/CustomerRetention.png?raw=true" width="400" height="300"/> <img src="images/RetentionRate.png?raw=true" width="400" height="300"/>
+<img src="images/ElbowPlot.png?raw=true" width="400" height="300"/> <img src="images/SnakePlot.png?raw=true" width="400" height="300"/>
 
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
 
