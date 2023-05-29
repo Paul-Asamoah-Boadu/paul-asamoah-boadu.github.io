@@ -43,7 +43,8 @@
 
 <h3>Analysing Prosper Loan Data</h3>
 
-<img src="images/BorrowerHome.png?raw=true" width="400" height="300"/> <img src="images/Relationship.png?raw=true" width="400" height="300"/> <img src="images/LoanPayment.png?raw=true" width="400" height="300"/>
+<img src="images/BorrowerHome.png?raw=true" width="400" height="300"/> <img src="images/Relationship.png?raw=true" width="400" height="300"/> 
+<img src="images/LoanPayment.png?raw=true" width="400" height="300"/>
 
 [Analysing Prosper Loan Data](https://github.com/Paul-Asamoah-Boadu/Prosper-Loan-Data)
 
@@ -53,7 +54,8 @@
 
 <h3>Predicting the Housing Price</h3>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Corr.png?raw=true" width="400" height="300"/>
+<img src="images/TimeStamp.png?raw=true" width="400" height="300"/>
 
 [Predicting the Housing Price](https://github.com/Paul-Asamoah-Boadu/)
 
