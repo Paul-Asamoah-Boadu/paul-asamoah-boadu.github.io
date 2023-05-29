@@ -20,12 +20,11 @@
 <img src="images/XG Boosting.png?raw=true" width="600" height="300"/>
 
 <div style="display: flex;">
-  <div style="flex: 1; margin-right: 10px;">
-    <h3>Predicting the Cooling Load of Building</h3>
-    <img src="images/Gradient Boosting.png?raw=true" width="600" height="300"/>
+  <div style="margin-right: 10px;">
+    <img src="images/Gradient Boosting.png?raw=true" alt="Gradient Boosting" style="width: 600px; height: 300px;">
   </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="images/XG Boosting.png?raw=true" width="600" height="300"/>
+  <div style="margin-left: 10px;">
+    <img src="images/XG Boosting.png?raw=true" alt="XG Boosting" style="width: 600px; height: 300px;">
   </div>
 </div>
 
