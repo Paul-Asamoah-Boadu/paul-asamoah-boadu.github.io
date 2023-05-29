@@ -10,20 +10,21 @@
 <img src="images/ElbowPlot.png?raw=true" width="400" height="300"/> 
 <img src="images/SnakePlot.png?raw=true" width="400" height="300"/>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px;">
+<div style="display: flex;">
+  <div style="margin-right: 10px;">
     <img src="images/CustomerRetention.png?raw=true" alt="Customer Retention" style="width: 400px; height: 300px;">
   </div>
-  <div style="margin: 10px;">
+  <div style="margin-right: 10px;">
     <img src="images/RetentionRate.png?raw=true" alt="Retention Rate" style="width: 400px; height: 300px;">
   </div>
-  <div style="margin: 10px;">
+  <div style="margin-right: 10px;">
     <img src="images/ElbowPlot.png?raw=true" alt="Elbow Plot" style="width: 400px; height: 300px;">
   </div>
-  <div style="margin: 10px;">
+  <div>
     <img src="images/SnakePlot.png?raw=true" alt="Snake Plot" style="width: 400px; height: 300px;">
   </div>
 </div>
+
 
 
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
