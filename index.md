@@ -17,6 +17,8 @@
   <div style="margin-right: 10px;">
     <img src="images/RetentionRate.png?raw=true" alt="Retention Rate" style="width: 400px; height: 300px;">
   </div>
+</div>
+<div style="display: flex;">
   <div style="margin-right: 10px;">
     <img src="images/ElbowPlot.png?raw=true" alt="Elbow Plot" style="width: 400px; height: 300px;">
   </div>
