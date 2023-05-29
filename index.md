@@ -8,6 +8,21 @@
 <img src="images/CustomerRetention.png?raw=true" width="400" height="300"/> <img src="images/RetentionRate.png?raw=true" width="400" height="300"/>
 <img src="images/ElbowPlot.png?raw=true" width="400" height="300"/> <img src="images/SnakePlot.png?raw=true" width="400" height="300"/>
 
+<div style="display: flex;">
+  <div style="margin-right: 10px;">
+    <img src="images/CustomerRetention.png?raw=true" alt="Gradient Boosting" style="width: 400px; height: 300px;">
+  </div>
+  <div style="margin-left: 10px;">
+    <img src="images/RetentionRate.png?raw=true" alt="XG Boosting" style="width: 400px; height: 300px;">
+  </div>
+  <div style="margin-right: 10px;">
+    <img src="images/ElbowPlot.png?raw=true" alt="Gradient Boosting" style="width: 400px; height: 300px;">
+  </div>
+  <div style="margin-left: 10px;">
+    <img src="images/SnakePlot.png?raw=true" alt="XG Boosting" style="width: 400px; height: 300px;">
+  </div>
+</div>
+
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
@@ -18,15 +33,6 @@
 
 <img src="images/Gradient Boosting.png?raw=true" width="600" height="300"/>
 <img src="images/XG Boosting.png?raw=true" width="600" height="300"/>
-
-<div style="display: flex;">
-  <div style="margin-right: 10px;">
-    <img src="images/Gradient Boosting.png?raw=true" alt="Gradient Boosting" style="width: 600px; height: 300px;">
-  </div>
-  <div style="margin-left: 10px;">
-    <img src="images/XG Boosting.png?raw=true" alt="XG Boosting" style="width: 600px; height: 300px;">
-  </div>
-</div>
 
 
 [Predicting the Cooling Load of Building](https://github.com/Paul-Asamoah-Boadu/Predicting-the-Cooling-Load-of-Buildings)
