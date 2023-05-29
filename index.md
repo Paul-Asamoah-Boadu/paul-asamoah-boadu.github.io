@@ -6,6 +6,7 @@
 <h3>Cohort Analysis and Customer Segmentation</h3>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="T.png" alt="Image of Tweets" width="800" height="700">
 
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
 
