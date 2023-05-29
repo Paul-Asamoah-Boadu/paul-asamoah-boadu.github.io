@@ -1,14 +1,8 @@
 ## Selected Projects in Data Science, Data Analytics, and Machine Learning
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
 ---
 
 <h3>Cohort Analysis and Customer Segmentation</h3>
 
-<img src="images/CustomerRetention.png?raw=true" width="400" height="300"/> 
-<img src="images/RetentionRate.png?raw=true" width="400" height="300"/>
-<img src="images/ElbowPlot.png?raw=true" width="400" height="300"/> 
-<img src="images/SnakePlot.png?raw=true" width="400" height="300"/>
 
 <div style="display: flex;">
   <div style="margin-right: 10px;">
