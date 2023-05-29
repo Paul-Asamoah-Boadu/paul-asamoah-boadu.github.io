@@ -16,7 +16,8 @@
 
 <h3>Predicting the Cooling Load of Building</h3>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Gradient Boosting.png?raw=true" width="600" height="300"/>
+<img src="images/XG Boosting.png?raw=true" width="600" height="300"/>
 
 [Predicting the Cooling Load of Building](https://github.com/Paul-Asamoah-Boadu/Predicting-the-Cooling-Load-of-Buildings)
 
