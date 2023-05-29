@@ -19,6 +19,17 @@
 <img src="images/Gradient Boosting.png?raw=true" width="600" height="300"/>
 <img src="images/XG Boosting.png?raw=true" width="600" height="300"/>
 
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
+    <h3>Predicting the Cooling Load of Building</h3>
+    <img src="images/Gradient Boosting.png?raw=true" width="600" height="300"/>
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="images/XG Boosting.png?raw=true" width="600" height="300"/>
+  </div>
+</div>
+
+
 [Predicting the Cooling Load of Building](https://github.com/Paul-Asamoah-Boadu/Predicting-the-Cooling-Load-of-Buildings)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
