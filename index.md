@@ -25,8 +25,7 @@
 
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
 
-[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="20">](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/)
-
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](https://www.python.org/) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://jupyter.org/) [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="20">](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](https://pandas.pydata.org/)
 
 
 ---
