@@ -25,7 +25,8 @@
 
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
 
-[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="20">](https://scikit-learn.org/)
+
 
 ---
 
