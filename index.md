@@ -25,7 +25,7 @@
 
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 ---
 
@@ -37,7 +37,7 @@
 
 [Predicting the Cooling Load of Building](https://github.com/Paul-Asamoah-Boadu/Predicting-the-Cooling-Load-of-Buildings)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 ---
 
@@ -48,8 +48,7 @@
 
 [Analysing Prosper Loan Data](https://github.com/Paul-Asamoah-Boadu/Prosper-Loan-Data)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 ---
 
 <h3>Predicting the Housing Price</h3>
@@ -58,8 +57,7 @@
 
 [Predicting the Housing Price](https://github.com/Paul-Asamoah-Boadu/)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 ---
 
 <h3>Analysing Twitter Archive</h3>
@@ -69,8 +67,7 @@
 
 [Analysing Twitter Archive](https://github.com/Paul-Asamoah-Boadu/Wrangling-and-Analyze-Data)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWeRateDogs)
 ---
 
 ---
