@@ -27,7 +27,10 @@
 
 [Power BI Analysis](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](https://www.python.org/) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://jupyter.org/) [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="20">](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](https://pandas.pydata.org/) [![Power BI](https://img.shields.io/badge/Power%20BI-blue?logo=power-bi&logoColor=gold&color=white)](https://powerbi.microsoft.com/en-us/)
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](https://www.python.org/) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://jupyter.org/) [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="20">](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](https://pandas.pydata.org/) [![Power BI](https://img.shields.io/badge/Power%20BI-blue?logo=power-bi&logoColor=yellow&color=white)](https://powerbi.microsoft.com/en-us/)
+
+
+
 
 ---
 
@@ -50,7 +53,7 @@
 
 [Analysing Prosper Loan Data](https://github.com/Paul-Asamoah-Boadu/Prosper-Loan-Data)
 
-[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](https://pandas.pydata.org/) 
 ---
 
 <h3>Predicting the Housing Price</h3>
@@ -59,7 +62,7 @@
 
 [Predicting the Housing Price](https://github.com/Paul-Asamoah-Boadu/)
 
-[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](https://pandas.pydata.org/) 
 ---
 
 <h3>Analysing Twitter Archive</h3>
@@ -69,8 +72,10 @@
 
 [Analysing Twitter Archive](https://github.com/Paul-Asamoah-Boadu/Wrangling-and-Analyze-Data)
 
-[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWeRateDogs)
-[![Tweepy](https://img.shields.io/badge/Tweepy-blue?logo=Tweepy&logoColor=white&color=white)](https://www.tweepy.org/)
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](https://pandas.pydata.org/) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWeRateDogs)
+[![Tweepy](https://img.shields.io/badge/Tweepy-blue?logo=Tweepy&logoColor=white&color=white)](https://www.tweepy.org/) 
+
+
 ---
 
 ---
@@ -83,8 +88,4 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
-
-
-[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#)
 
