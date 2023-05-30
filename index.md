@@ -6,10 +6,10 @@
 
 <div style="display: flex;">
   <div style="margin-right: 10px;">
-    <img src="images/CustomerRetention.png?raw=true" alt="Customer Retention" style="width: 600px; height: 300px;">
+    <img src="images/CustomerRetention.png?raw=true" alt="Customer Retention" style="width: 400px; height: 300px;">
   </div>
   <div style="margin-right: 10px;">
-    <img src="images/RetentionRate.png?raw=true" alt="Retention Rate" style="width: 600px; height: 300px;">
+    <img src="images/RetentionRate.png?raw=true" alt="Retention Rate" style="width: 400px; height: 300px;">
   </div>
 </div>
 <div style="display: flex;">
