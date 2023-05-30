@@ -24,6 +24,7 @@
 
 
 [Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
+
 [Power BI Analysis](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 [![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](https://www.python.org/) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://jupyter.org/) [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="20">](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](https://pandas.pydata.org/) [![Power BI](https://img.shields.io/badge/Power%20BI-blue?logo=power-bi&logoColor=gold&color=white)](https://powerbi.microsoft.com/en-us/)
@@ -38,7 +39,7 @@
 
 [Predicting the Cooling Load of Building](https://github.com/Paul-Asamoah-Boadu/Predicting-the-Cooling-Load-of-Buildings)
 
-[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="20">](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](https://pandas.pydata.org/)
 
 ---
 
