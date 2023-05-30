@@ -27,7 +27,6 @@
 
 [![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](https://www.python.org/) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](https://jupyter.org/) [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="20">](https://scikit-learn.org/) [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](https://pandas.pydata.org/)
 
-
 ---
 
 <h3>Predicting the Cooling Load of Building</h3>
@@ -69,6 +68,7 @@
 [Analysing Twitter Archive](https://github.com/Paul-Asamoah-Boadu/Wrangling-and-Analyze-Data)
 
 [![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWeRateDogs)
+[![Tweepy](https://img.shields.io/badge/Tweepy-blue?logo=Tweepy&logoColor=white&color=white)](https://www.tweepy.org/)
 ---
 
 ---
