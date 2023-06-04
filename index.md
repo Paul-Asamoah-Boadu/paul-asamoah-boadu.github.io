@@ -3,7 +3,7 @@
 
 <h3>Cohort Analysis and Customer Segmentation</h3>
   
-The project focused on calculating the monthly customer retention rate and effectively segmenting customers based on their behavior, including factors such as recent transactions, purchase frequency, and expenditure. Additionally, Power BI was utilised to perform comprehensive analyses of customer segments using Recency, Frequency, and Monetary value.
+The project focused on calculating the monthly customer retention rate and effectively segmenting customers based on their behavior, including factors such as recent transactions, purchase frequency, and expenditure. Additionally, Power BI was utilised to perform comprehensive analyses of customer segments using cluster.
 
 
 <div style="display: flex;">
