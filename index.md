@@ -22,10 +22,16 @@
 </div>
 
 
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <a href="https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation">Cohort Analysis and Customer Segmentation</a>
+    </div>
+    <div style="flex: 1;">
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Power BI Analysis</a>
+    </div>
+</div>
 
-[Cohort Analysis and Customer Segmentation](https://github.com/Paul-Asamoah-Boadu/Cohort-Analysis-and-Customer-Segmentation)
 
-[Power BI Analysis](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 [![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue&color=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="20">](#) [![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=blue&color=white)](#) [![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=black&color=white)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-blue?logo=power-bi&logoColor=yellow&color=white)](#)
 
