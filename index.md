@@ -55,6 +55,8 @@ This is a robust predictive model built to estimate the cooling load requirement
 
 <h3>Analysing Prosper Loan Data</h3>
 
+This analysis focuse on the creditworthiness of borrowers and loan patterns using a dataset of loan listings from Prosper, a peer-to-peer lending platform, spanning the years 2005 to 2014.
+
 <img src="images/BorrowerHome.png?raw=true" width="400" height="300"/> <img src="images/Relationship.png?raw=true" width="400" height="300"/> 
 <img src="images/LoanPayment.png?raw=true" width="400" height="300"/>
 
