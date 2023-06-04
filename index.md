@@ -41,7 +41,7 @@ The project focused on calculating the monthly customer retention rate and effec
 
 <h3>Predicting the Cooling Load of Building</h3>
 
-This is a robust predictive model built to estimate the cooling load requirement, thereby supporting the development of energy-efficient buildings. The Gradient Boosting Regressor, Random Forest Regressor, and AdaBoost Regressor, Gradient Boosting and others were among the models utilised.
+This is a robust predictive model built to estimate the cooling load requirement, thereby supporting the development of energy-efficient buildings. The Gradient Boosting Regressor, Random Forest Regressor and others were among the models utilised.
 
 <img src="images/Gradient Boosting.png?raw=true" width="600" height="300"/>
 <img src="images/XG Boosting.png?raw=true" width="600" height="300"/>
