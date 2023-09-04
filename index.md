@@ -89,7 +89,7 @@ This analysis focuse on the creditworthiness of borrowers and loan patterns usin
 
 ---
 
-### Category Name 2
+### Power BI Analysis
 
 - [Customer Segmentation Analysis](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - [Project 3 Title](http://example.com/)
