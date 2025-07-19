@@ -13,3 +13,4 @@ google_analytics: G-JSZ1VLV0VX # your Google Analytics tracking ID here
 
 colors:
   crimson: '#900C3F'
+theme: jekyll-theme-minimal
